@@ -65,7 +65,9 @@ padding: 2rem;
   font-size: 1.5rem;
   margin-bottom: 0.5rem;
 }
-
+.goals li{
+  list-style-type: disc;
+}
 .resources{
   margin-bottom: 2rem;
 }
